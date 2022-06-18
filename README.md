@@ -14,4 +14,4 @@ Compiled version of sm64-port by OsirizX with the help of [OpenOrbis-PS4-Toolcha
 
 Note:
 
-Savedata is stored at /data/sm64_save_file.bin
+Savedata is stored at `/data/sm64_save_file.bin`
