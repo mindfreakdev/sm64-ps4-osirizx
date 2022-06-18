@@ -2,7 +2,7 @@
 
 Compiled version of sm64-port by OsirizX with the help of [OpenOrbis-PS4-Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain/releases) (Version 0.5 for Linux was used at the time of this build)
 
-1. Transfer the /data folder to your PS4
+1. Transfer the `/data` folder to your PS4
 
 `/data/self/system/common/lib/libScePigletv2VSH.sprx`
 
