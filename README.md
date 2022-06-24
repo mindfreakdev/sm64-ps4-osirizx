@@ -8,7 +8,7 @@ Compiled version of sm64-port by OsirizX with the help of [OpenOrbis-PS4-Toolcha
 
 `/data/self/system/common/lib/libSceShaccVSH.sprx`
 
-2. Install `UP0001-CUSA64001_00-0000000000000001.pkg`
+2. Install `UP0001-CUSA64001_00-0000000000000001.pkg` [US] or `EP0001-CUSA64002_00-0000000000000001` [EU]
 
 3. Have fun!
 
